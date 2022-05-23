@@ -3,6 +3,7 @@ import Header from "./Header";
 import Footer from "./Footer";
 import Content from "./Content";
 
+// importing React components
 function App(){
     return(
       <div>
@@ -13,5 +14,5 @@ function App(){
     )
   
 }
-
+// export to the Root(App)
 export default App;

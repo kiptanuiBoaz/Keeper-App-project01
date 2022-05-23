@@ -1,5 +1,5 @@
 import React from "react";
-
+// react functional components
 function Footer(){
   return(
       <div className="footer">
@@ -10,5 +10,5 @@ function Footer(){
       </div>
   )
 };
-
+// export a single valeu
 export default Footer;
