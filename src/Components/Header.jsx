@@ -4,7 +4,7 @@ function Header(){
     return(
         <div className="header">
             <h1>
-             This is the note title
+             Keeper App
             </h1>
         </div>
     
